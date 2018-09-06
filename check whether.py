@@ -1,4 +1,4 @@
-x=int(input("enter a number: "))
+x=int(input())
 if(x%2==0):
 	print("{0} is even".format(x))
 else:
