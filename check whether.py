@@ -1,5 +1,5 @@
 x=int(input())
 if(x%2==0):
-	print("{0} is even".format(x))
+	print("even")
 else:
-	print("{0} is odd".format(x))
+	print("odd")
